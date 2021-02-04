@@ -1,0 +1,19 @@
+{
+    "name": "amunyua/datatable",
+    "description": "This is a laravel 7 package for the server and client side of datatablaes at http://datatables.net/",
+    "keywords" : ["laravel","datatables", "ajax", "jquery"],
+    "license": "MIT",
+    "homepage": "http://github.com/amunyua/datatable",
+    "authors": [
+        {
+            "name": "Alex Munyua",
+            "email": "alexmunyua10@gmail.com",
+            "role": "Developer"
+        }
+    ],
+    "autoload": {
+        "psr-0": {
+            "Chumper\\Datatable": "src/"
+        }
+    }
+}
