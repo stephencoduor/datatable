@@ -11,6 +11,10 @@
             "role": "Developer"
         }
     ],
+    "require": {
+    },
+    "require-dev": {
+    },
     "autoload": {
         "psr-0": {
             "Chumper\\Datatable": "src/"
